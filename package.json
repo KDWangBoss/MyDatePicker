@@ -1,0 +1,16 @@
+{
+    "id": "Winglau14-lotusCalendar",
+    "name": "日期选择控件，适用于H5、小程序、app端",
+    "version": "1.0.4",
+    "description": "日期选择控件，适用于H5、小程序、app端",
+    "keywords": [
+        "日期选择",
+        "日历"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
